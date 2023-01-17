@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "ProstoOne";
+  src: url(../fonts/ProstoOne-Regular.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+  font-weight: 400;
+}
